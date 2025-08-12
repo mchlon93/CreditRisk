@@ -710,11 +710,6 @@ def main():
                 The dataset includes demographic information, employment details, loan specifications, and historical credit data to predict 
                 the likelihood of loan default.
 
-                **Key Features:**
-                - **Personal Information**: Age, income, employment length, home ownership
-                - **Loan Details**: Amount, interest rate, purpose, grade, percent of income
-                - **Credit History**: Previous defaults, credit history length
-                - **Target Variable**: Loan status (0 = No Default, 1 = Default)
                 """)
 
         # Dataset metrics
