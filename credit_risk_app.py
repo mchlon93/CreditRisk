@@ -1014,7 +1014,7 @@ def main():
         with col1:
             st.markdown("""
             <div class="info-box">
-            <strong>XGBoost (eXtreme Gradient Boosting)</strong> is a powerful ensemble method that:<br>
+            <strong>XGBoost</strong> is a powerful ensemble method that:<br>
             • Builds sequential trees that correct previous errors<br>
             • Handles missing values naturally<br>
             • Provides feature importance rankings<br>
