@@ -50,7 +50,7 @@ A comprehensive Streamlit web application for credit risk analysis and machine l
 1. **Clone or Download the Repository**
    ```bash
       # If using git
-      git clone https://github.com/mchlon93/credit_risk.git
+      git clone https://github.com/mchlon93/CreditRisk.git
       
       # Or download the files directly and navigate to the directory
    ```
