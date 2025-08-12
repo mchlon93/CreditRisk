@@ -93,7 +93,7 @@ Ensure the `credit_risk_dataset.csv` is in your directory
 **Purpose**: Understand the dataset and explore risk factors
 
 1. **Review Dataset Metrics**: Examine rows, columns, default rate, and missing data percentages
-2. **Explore Original Features**: Professional cards explain each feature's purpose
+2. **Explore Original Features**: Metric cards explain each feature's purpose
 3. **Understand Engineered Features**: Preview the 11 features that will be created
 4. **Analyse Risk Factors**: Interactive charts showing default rates by different categories
 5. **Examine Correlations**: Heatmap visualisation of feature relationships
